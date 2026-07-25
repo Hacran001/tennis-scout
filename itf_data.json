@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-24T06:32:45Z",
+  "updated": "2026-07-25T06:24:35Z",
   "year": 2026,
-  "count": 1078,
+  "count": 1083,
   "items": [
     {
       "name": "Haz Master Tour 2026",
@@ -6861,7 +6861,7 @@
       "tier": "M25",
       "surf": "Clay",
       "start": "2026-07-27",
-      "end": "2026-08-01"
+      "end": "2026-08-02"
     },
     {
       "name": "M25 Wetzlar",
@@ -7624,7 +7624,7 @@
       "end": "2026-08-23"
     },
     {
-      "name": "LXXVI TORNEO INTERNACIONAL RSTM",
+      "name": "LXXVII TORNEO INTERNACIONAL RSTM",
       "loc": "SANTANDER",
       "country": "ESP",
       "cat": "ITF",
@@ -8194,7 +8194,7 @@
       "end": "2026-09-06"
     },
     {
-      "name": "M15 Porto Velho",
+      "name": "ABERTO DO MADEIRA DE TENIS",
       "loc": "Porto Velho",
       "country": "BRA",
       "cat": "ITF",
@@ -8330,16 +8330,6 @@
       "cat": "ITF",
       "tier": "W35",
       "surf": "Clay",
-      "start": "2026-08-31",
-      "end": "2026-09-06"
-    },
-    {
-      "name": "ABERTO DO MADEIRA DE TENIS",
-      "loc": "PORTO VELHO",
-      "country": "BRA",
-      "cat": "ITF",
-      "tier": "W15",
-      "surf": "Hard",
       "start": "2026-08-31",
       "end": "2026-09-06"
     },
@@ -8517,6 +8507,16 @@
       "name": "UCHIYAMA CUP SAPPORO",
       "loc": "Sapporo",
       "country": "JPN",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Hard",
+      "start": "2026-09-07",
+      "end": "2026-09-13"
+    },
+    {
+      "name": "M25 SINTRA I",
+      "loc": "Sintra",
+      "country": "POR",
       "cat": "ITF",
       "tier": "M25",
       "surf": "Hard",
@@ -8777,6 +8777,16 @@
       "name": "M25 Guiyang",
       "loc": "Guiyang",
       "country": "CHN",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Hard",
+      "start": "2026-09-14",
+      "end": "2026-09-20"
+    },
+    {
+      "name": "M25 SINTRA II",
+      "loc": "Sintra",
+      "country": "POR",
       "cat": "ITF",
       "tier": "M25",
       "surf": "Hard",
@@ -9364,6 +9374,16 @@
       "end": "2026-10-04"
     },
     {
+      "name": "W15 Trelew ",
+      "loc": "Trelew",
+      "country": "ARG",
+      "cat": "ITF",
+      "tier": "W15",
+      "surf": "Clay",
+      "start": "2026-09-28",
+      "end": "2026-10-04"
+    },
+    {
       "name": "2026 Ma'anshan Open",
       "loc": "Maanshan",
       "country": "CHN",
@@ -9474,16 +9494,6 @@
       "end": "2026-10-11"
     },
     {
-      "name": "W50 Burgas",
-      "loc": "Burgas",
-      "country": "BUL",
-      "cat": "ITF",
-      "tier": "W50",
-      "surf": "Clay",
-      "start": "2026-10-05",
-      "end": "2026-10-11"
-    },
-    {
       "name": "W50 Heraklion",
       "loc": "Heraklion",
       "country": "GRE",
@@ -9500,6 +9510,16 @@
       "cat": "ITF",
       "tier": "W50",
       "surf": "Hard",
+      "start": "2026-10-05",
+      "end": "2026-10-11"
+    },
+    {
+      "name": "W50 Burgas",
+      "loc": "Burgas",
+      "country": "BUL",
+      "cat": "ITF",
+      "tier": "W50",
+      "surf": "Clay",
       "start": "2026-10-05",
       "end": "2026-10-11"
     },
@@ -9574,9 +9594,9 @@
       "end": "2026-10-11"
     },
     {
-      "name": "Viszlo Open",
-      "loc": "Székesfehérvár",
-      "country": "HUN",
+      "name": "W15 Cipolletti",
+      "loc": "Cipolletti ",
+      "country": "ARG",
       "cat": "ITF",
       "tier": "W15",
       "surf": "Clay",
@@ -9590,6 +9610,16 @@
       "cat": "ITF",
       "tier": "W15",
       "surf": "Hard",
+      "start": "2026-10-05",
+      "end": "2026-10-11"
+    },
+    {
+      "name": "Viszlo Open",
+      "loc": "Székesfehérvár",
+      "country": "HUN",
+      "cat": "ITF",
+      "tier": "W15",
+      "surf": "Clay",
       "start": "2026-10-05",
       "end": "2026-10-11"
     },
@@ -10124,16 +10154,6 @@
       "end": "2026-11-01"
     },
     {
-      "name": "Internationaux Féminins de la Vienne",
-      "loc": "Poitiers",
-      "country": "FRA",
-      "cat": "ITF",
-      "tier": "W75",
-      "surf": "Hard",
-      "start": "2026-10-26",
-      "end": "2026-11-01"
-    },
-    {
       "name": "Tevlin Challenger",
       "loc": "Toronto",
       "country": "CAN",
@@ -10147,6 +10167,16 @@
       "name": "Lexus British Pro Series Glasgow",
       "loc": "Glasgow",
       "country": "GBR",
+      "cat": "ITF",
+      "tier": "W75",
+      "surf": "Hard",
+      "start": "2026-10-26",
+      "end": "2026-11-01"
+    },
+    {
+      "name": "Internationaux Féminins de la Vienne",
+      "loc": "Poitiers",
+      "country": "FRA",
       "cat": "ITF",
       "tier": "W75",
       "surf": "Hard",
@@ -10184,16 +10214,6 @@
       "end": "2026-11-01"
     },
     {
-      "name": "Audi Danderyd Stockholm Ladies",
-      "loc": "Täby",
-      "country": "SWE",
-      "cat": "ITF",
-      "tier": "W15",
-      "surf": "Hard",
-      "start": "2026-10-26",
-      "end": "2026-11-01"
-    },
-    {
       "name": "Magic Hotel Tours by FTT\t",
       "loc": "Monastir",
       "country": "TUN",
@@ -10220,6 +10240,16 @@
       "cat": "ITF",
       "tier": "W15",
       "surf": "Clay",
+      "start": "2026-10-26",
+      "end": "2026-11-01"
+    },
+    {
+      "name": "Audi Danderyd Stockholm Ladies",
+      "loc": "Täby",
+      "country": "SWE",
+      "cat": "ITF",
+      "tier": "W15",
+      "surf": "Hard",
       "start": "2026-10-26",
       "end": "2026-11-01"
     },
@@ -10270,6 +10300,16 @@
       "cat": "ITF",
       "tier": "M15",
       "surf": "Hard",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    {
+      "name": "M15 SAN GREGORIO DI CATANIA",
+      "loc": "San Gregorio di Catania",
+      "country": "ITA",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Clay",
       "start": "2026-11-02",
       "end": "2026-11-08"
     },
@@ -10370,6 +10410,16 @@
       "cat": "ITF",
       "tier": "M15",
       "surf": "Hard",
+      "start": "2026-11-09",
+      "end": "2026-11-15"
+    },
+    {
+      "name": "CITTA' DI SAN GREGORIO",
+      "loc": "San Gregorio di Catania",
+      "country": "ITA",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Clay",
       "start": "2026-11-09",
       "end": "2026-11-15"
     },
