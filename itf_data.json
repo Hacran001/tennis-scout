@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T06:34:12Z",
+  "updated": "2026-08-06T06:37:24Z",
   "year": 2026,
-  "count": 1112,
+  "count": 1113,
   "items": [
     {
       "name": "Haz Master Tour 2026",
@@ -8204,7 +8204,7 @@
       "end": "2026-09-06"
     },
     {
-      "name": "M25 Trelew",
+      "name": "M15 Trelew",
       "loc": "Trelew",
       "country": "ARG",
       "cat": "ITF",
@@ -8554,16 +8554,6 @@
       "end": "2026-09-13"
     },
     {
-      "name": "M15 Pirot",
-      "loc": "PIROT",
-      "country": "SRB",
-      "cat": "ITF",
-      "tier": "M15",
-      "surf": "Clay",
-      "start": "2026-09-07",
-      "end": "2026-09-13"
-    },
-    {
       "name": "Magic Hotel Tours by FTT",
       "loc": "Monastir",
       "country": "TUN",
@@ -8620,6 +8610,16 @@
       "cat": "ITF",
       "tier": "M15",
       "surf": "Hard",
+      "start": "2026-09-07",
+      "end": "2026-09-13"
+    },
+    {
+      "name": "M15 Pirot",
+      "loc": "PIROT",
+      "country": "SRB",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Clay",
       "start": "2026-09-07",
       "end": "2026-09-13"
     },
@@ -9294,7 +9294,7 @@
       "end": "2026-10-04"
     },
     {
-      "name": "M15 Fayetteville, AR ",
+      "name": "Fayetteville M15",
       "loc": "Fayetteville",
       "country": "USA",
       "cat": "ITF",
@@ -9409,7 +9409,7 @@
       "country": "ARG",
       "cat": "ITF",
       "tier": "W15",
-      "surf": "Clay",
+      "surf": "Hard",
       "start": "2026-09-28",
       "end": "2026-10-04"
     },
@@ -9497,6 +9497,16 @@
       "name": "Egypt 20 Sharm ElSheikh Men's Future",
       "loc": "Sharm ElSheikh",
       "country": "EGY",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Hard",
+      "start": "2026-10-05",
+      "end": "2026-10-11"
+    },
+    {
+      "name": "M15 Pontevedra",
+      "loc": "Pontevedra",
+      "country": "ESP",
       "cat": "ITF",
       "tier": "M15",
       "surf": "Hard",
