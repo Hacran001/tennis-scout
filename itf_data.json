@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-07T05:45:04Z",
+  "updated": "2026-08-08T05:03:40Z",
   "year": 2026,
-  "count": 987,
+  "count": 990,
   "items": [
     {
       "name": "Haz Master Tour 2026",
@@ -9574,6 +9574,16 @@
       "end": "2026-11-15"
     },
     {
+      "name": "CITTA' DI SAN GREGORIO",
+      "loc": "San Gregorio di Catania",
+      "country": "ITA",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Clay",
+      "start": "2026-11-09",
+      "end": "2026-11-15"
+    },
+    {
       "name": "M25 Columbus, OH",
       "loc": "Columbus, ",
       "country": "USA",
@@ -9584,11 +9594,21 @@
       "end": "2026-11-15"
     },
     {
-      "name": "CITTA' DI SAN GREGORIO",
-      "loc": "San Gregorio di Catania",
-      "country": "ITA",
+      "name": "M25 VALE DO LOBO",
+      "loc": "Vale do Lobo",
+      "country": "POR",
       "cat": "ITF",
       "tier": "M25",
+      "surf": "Hard",
+      "start": "2026-11-09",
+      "end": "2026-11-15"
+    },
+    {
+      "name": "M15 Naples, FL",
+      "loc": "Naples",
+      "country": "USA",
+      "cat": "ITF",
+      "tier": "M15",
       "surf": "Clay",
       "start": "2026-11-09",
       "end": "2026-11-15"
@@ -9637,6 +9657,16 @@
       "name": "M15 HERAKLION",
       "loc": "Heraklion",
       "country": "GRE",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Hard",
+      "start": "2026-11-16",
+      "end": "2026-11-22"
+    },
+    {
+      "name": "M25 VALE DO LOBO",
+      "loc": "Vale do Lobo",
+      "country": "POR",
       "cat": "ITF",
       "tier": "M25",
       "surf": "Hard",
