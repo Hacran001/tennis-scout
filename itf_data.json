@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T04:45:05Z",
+  "updated": "2026-08-22T04:39:14Z",
   "year": 2026,
-  "count": 1008,
+  "count": 1011,
   "items": [
     {
       "name": "Haz Master Tour 2026",
@@ -9474,6 +9474,16 @@
       "end": "2026-11-01"
     },
     {
+      "name": "The Bermuda Pro Challenger 1",
+      "loc": "Pembroke",
+      "country": "BER",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Hard",
+      "start": "2026-10-26",
+      "end": "2026-11-01"
+    },
+    {
       "name": "Magic Hotel Tours by FTT",
       "loc": "Monastir",
       "country": "TUN",
@@ -9544,6 +9554,16 @@
       "end": "2026-10-31"
     },
     {
+      "name": "M25 Harlingen, TX",
+      "loc": "Harlingen",
+      "country": "USA",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Hard",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    {
       "name": "LAGOS OPEN",
       "loc": "Lagos",
       "country": "NGR",
@@ -9584,11 +9604,41 @@
       "end": "2026-11-08"
     },
     {
-      "name": "M25 Harlingen, TX",
-      "loc": "Harlingen",
-      "country": "USA",
+      "name": "Egypt 23 Sharm ElSheikh Men's Future",
+      "loc": "Sharm ElSheikh",
+      "country": "EGY",
       "cat": "ITF",
-      "tier": "M25",
+      "tier": "M15",
+      "surf": "Hard",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    {
+      "name": "M15 SAN GREGORIO DI CATANIA",
+      "loc": "San Gregorio di Catania",
+      "country": "ITA",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Clay",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    {
+      "name": "ANTALYA SERIES",
+      "loc": "Antalya",
+      "country": "TUR",
+      "cat": "ITF",
+      "tier": "M15",
+      "surf": "Clay",
+      "start": "2026-11-02",
+      "end": "2026-11-08"
+    },
+    {
+      "name": "M15 Trois-Rivières",
+      "loc": "Trois-Rivières",
+      "country": "CAN",
+      "cat": "ITF",
+      "tier": "M15",
       "surf": "Hard",
       "start": "2026-11-02",
       "end": "2026-11-08"
@@ -9624,39 +9674,9 @@
       "end": "2026-11-08"
     },
     {
-      "name": "Egypt 23 Sharm ElSheikh Men's Future",
-      "loc": "Sharm ElSheikh",
-      "country": "EGY",
-      "cat": "ITF",
-      "tier": "M15",
-      "surf": "Hard",
-      "start": "2026-11-02",
-      "end": "2026-11-08"
-    },
-    {
-      "name": "M15 SAN GREGORIO DI CATANIA",
-      "loc": "San Gregorio di Catania",
-      "country": "ITA",
-      "cat": "ITF",
-      "tier": "M15",
-      "surf": "Clay",
-      "start": "2026-11-02",
-      "end": "2026-11-08"
-    },
-    {
-      "name": "ANTALYA SERIES",
-      "loc": "Antalya",
-      "country": "TUR",
-      "cat": "ITF",
-      "tier": "M15",
-      "surf": "Clay",
-      "start": "2026-11-02",
-      "end": "2026-11-08"
-    },
-    {
-      "name": "M15 Trois-Rivières",
-      "loc": "Trois-Rivières",
-      "country": "CAN",
+      "name": "The Bermuda Pro Challenger 2",
+      "loc": "Pembroke",
+      "country": "BER",
       "cat": "ITF",
       "tier": "M15",
       "surf": "Hard",
@@ -10080,6 +10100,16 @@
       "cat": "ITF",
       "tier": "M25",
       "surf": "Hard",
+      "start": "2026-12-28",
+      "end": "2027-01-03"
+    },
+    {
+      "name": "Morocco Tennis Tour",
+      "loc": "Marrakech",
+      "country": "MAR",
+      "cat": "ITF",
+      "tier": "M25",
+      "surf": "Clay",
       "start": "2026-12-28",
       "end": "2027-01-03"
     }
